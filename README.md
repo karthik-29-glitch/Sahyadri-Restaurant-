@@ -1,11 +1,28 @@
-<div align="center">
+# Sahyadri Vaibhava — Pure Vegetarian Family Restaurant
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Online ordering, table reservations, and real-time admin order management portal for **Sahyadri Vaibhava** (Chandapura–Anekal Road, opposite JPM Nursery, Iggalur, Bengaluru – 560099).
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Interactive Vegetarian Menu**: Categorized South Indian, North Indian, Rice & Meals, Snacks, Beverages, and Desserts with Kannada & English titles.
+- **Cart & Checkout**: Supports both **Takeaway / Counter Pickup** and **Home Delivery** with itemized billing.
+- **Instant WhatsApp Order Notification**: Formats customer name, phone number, delivery address, landmark, itemized dish list, cooking notes, and bill breakdown directly for WhatsApp (`+91 88846 80461`).
+- **Table & Event Booking**: Online table reservations synced with Supabase & local storage fallback.
+- **Owner & Admin Customizer**: Edit menu prices, toggle stock status, update restaurant contact details, and view live orders & bookings.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Local Development Setup
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+1. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-</div>
+2. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+   Open `http://localhost:3000` in your browser.
+
+3. **Build for production**
+   ```bash
+   npm run build
+   ```

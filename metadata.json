@@ -1,0 +1,6 @@
+{
+  "name": "Sahyadri Vaibhava | Vegetarian Restaurant",
+  "description": "Sahyadri Vaibhava is a vegetarian and family restaurant on Chandapura–Anekal Road, Iggalur, Bengaluru. Explore the menu, place an order, contact the restaurant and get directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
