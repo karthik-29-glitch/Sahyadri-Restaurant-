@@ -5,7 +5,7 @@ Online ordering, table reservations, and real-time admin order management portal
 ## Features
 - **Interactive Vegetarian Menu**: Categorized South Indian, North Indian, Rice & Meals, Snacks, Beverages, and Desserts with Kannada & English titles.
 - **Cart & Checkout**: Supports both **Takeaway / Counter Pickup** and **Home Delivery** with itemized billing.
-- **Instant WhatsApp Order Notification**: Formats customer name, phone number, delivery address, landmark, itemized dish list, cooking notes, and bill breakdown directly for WhatsApp (`+91 88846 80461`).
+- **Instant WhatsApp Order Notification**: Formats customer name, phone number, delivery address, landmark, itemized dish list, cooking notes, and bill breakdown directly for WhatsApp (`+91 88846 80461`). it goes to client whatapp order list.
 - **Table & Event Booking**: Online table reservations synced with Supabase & local storage fallback.
 - **Owner & Admin Customizer**: Edit menu prices, toggle stock status, update restaurant contact details, and view live orders & bookings.
 
